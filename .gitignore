@@ -1,0 +1,15 @@
+# ESP-IDF build output
+build/
+managed_components/
+sdkconfig.old
+
+# Local tooling and editor state
+.vscode/
+.idea/
+*.log
+*.tmp
+
+# Release binaries are distributed through the AI Passport community
+*.bin
+*.elf
+*.map
